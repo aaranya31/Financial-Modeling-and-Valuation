@@ -1,75 +1,119 @@
-# 📈 Hindustan Unilever Financial Modeling & Valuation
+# Hindustan Unilever Financial Modeling & Valuation
 
 ## Project Overview
 
-Built a comprehensive Discounted Cash Flow (DCF) valuation model for Hindustan Unilever Limited (HUL) using Microsoft Excel to estimate the company's intrinsic value through financial forecasting and valuation techniques.
+Built a comprehensive **Discounted Cash Flow (DCF) Financial Model** for **Hindustan Unilever Limited (HUL)** using Microsoft Excel. The model forecasts the company's financial performance, estimates Free Cash Flow to Firm (FCFF), calculates the Weighted Average Cost of Capital (WACC), determines Enterprise Value, and estimates the intrinsic value using DCF valuation.
 
 ---
 
-# Objectives
+## Business Objective
 
-- Forecast financial statements
-- Estimate Free Cash Flow to Firm (FCFF)
-- Calculate WACC
-- Estimate Terminal Value
-- Perform DCF Valuation
-- Conduct Sensitivity Analysis
-- Compare Intrinsic Value with Market Price
+The objective of this project is to estimate the intrinsic value of Hindustan Unilever by forecasting future financial performance and applying industry-standard valuation techniques to support investment decisions.
 
 ---
 
-# Tools Used
+## Tools & Techniques
 
 - Microsoft Excel
 - Financial Modeling
-- DCF Valuation
-- Corporate Finance
+- Discounted Cash Flow (DCF)
+- Free Cash Flow to Firm (FCFF)
+- Weighted Average Cost of Capital (WACC)
+- Financial Statement Analysis
+- Intrinsic Valuation
+- Forecasting
 
 ---
 
-# Model Components
+## Repository Contents
 
-- Historical Financial Statements
-- Revenue Forecast
-- Cost Forecast
-- FCFF Calculation
+- Financial Model (Excel)
+- Historical Financial Data
+- Balance Sheet Analysis
+- Cash Flow Analysis
 - WACC Calculation
+- Intrinsic Growth Analysis
+- DCF Valuation
+
+---
+
+## Financial Model Preview
+
+### Data Sheet
+
+![Data Sheet](Data%20sheet.png)
+
+---
+
+### Balance Sheet
+
+![Balance Sheet](Balance%20Sheet.png)
+
+---
+
+### Cash Flow Analysis
+
+![Cash Flow Analysis](Cash%20flow%20data.png)
+
+---
+
+### WACC Calculation
+
+![WACC](WACC.png)
+
+---
+
+### Intrinsic Growth Analysis
+
+![Intrinsic Growth](Intrinsic%20Growth.png)
+
+---
+
+### DCF Valuation
+
+![DCF Valuation](DCF.png)
+
+---
+
+## Model Components
+
+- Historical Financial Statement Analysis
+- Revenue Forecasting
+- Operating Expense Forecasting
+- FCFF Calculation
+- WACC Estimation
+- Terminal Value Calculation
+- Enterprise Value Estimation
+- Equity Valuation
+- Intrinsic Value Analysis
+
+---
+
+## Key Outputs
+
+- Forecasted Financial Statements
+- Free Cash Flow to Firm (FCFF)
+- Weighted Average Cost of Capital (WACC)
 - Terminal Value
 - Enterprise Value
 - Equity Value
-- Sensitivity Analysis
+- Intrinsic Share Price
 
 ---
 
-# Model Preview
+## Skills Demonstrated
 
-## Dashboard
-
-![Dashboard](Images/dashboard.png)
-
----
-
-## Assumptions
-
-![Assumptions](Images/assumptions.png)
-
----
-
-## DCF Valuation
-
-![DCF](Images/valuation.png)
+- Financial Modeling
+- Corporate Finance
+- Equity Valuation
+- Business Valuation
+- Financial Statement Analysis
+- Financial Forecasting
+- Investment Analysis
+- Microsoft Excel
 
 ---
 
-## Sensitivity Analysis
+## Author
 
-![Sensitivity](Images/sensitivity_analysis.png)
-
----
-
-# Key Highlights
-
-- Built an integrated three-statement financial model.
-- Forecasted FCFF using historical financial data.
-- Estimated enterprise value using the DCF approach.
-- Performed sensitivity analysis across WACC and terminal growth assumptions.
+**Aaranya**
